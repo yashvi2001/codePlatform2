@@ -4,7 +4,7 @@
  <p align="center">CODE-RUSH is a competitive coding platform developed on the latest standard of the web - the JAM Stack.</p> 
 
 ---
-![Backend Deploy](https://github.com/aditya-mitra/codePlatform2/workflows/Backend%20Deploy/badge.svg) ![Frontend Build](https://github.com/aditya-mitra/codePlatform2/workflows/Frontend%20Build/badge.svg) ![CodeQL](https://github.com/aditya-mitra/codePlatform2/workflows/CodeQL/badge.svg) 
+![Backend Deploy](https://github.com/aditya-mitra/codePlatform2/workflows/Backend%20Deploy/badge.svg) ![Frontend Build](https://github.com/yashvi2001/codePlatform2/workflows/Frontend%20Build/badge.svg) ![CodeQL](https://github.com/aditya-mitra/codePlatform2/workflows/CodeQL/badge.svg) 
 ---
 
 #### KickStart
